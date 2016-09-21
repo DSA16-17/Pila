@@ -17,6 +17,19 @@ public class Main {
             stI.push(9);
             stI.push(10);
             System.out.println(stI.size());
+            stI.pop();
+            stI.pop();
+            stI.pop();
+            stI.pop();
+            stI.pop();
+            stI.pop();
+            stI.pop();
+            stI.pop();
+            stI.pop();
+            stI.pop();
+            stI.pop();
+            stI.pop();
+            stI.pop();
 
         }
         catch (PilaLlena e)
