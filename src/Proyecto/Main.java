@@ -29,6 +29,7 @@ public class Main {
             stI.pop();
             stI.pop();
             stI.pop();
+            stI.pop();
 
         }
         catch (PilaLlena e)
